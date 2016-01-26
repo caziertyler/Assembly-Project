@@ -1,0 +1,14 @@
+﻿Build started 4/25/2015 5:20:04 PM.
+     1>Project "C:\Users\Tyler\Documents\College\Weber State\CS 2810\CS2810-A4\CS2810-Assembler-Template\CS2810-Assembler-Template\CS2810-Assembler-Template.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling CS2810-Assembler-Template.asm...
+         cmd.exe /C "C:\Users\Tyler\AppData\Local\Temp\tmp5e96914bc196403880b3c6958adeaf9d.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\CS2810-Assembler-Template.obj" /Fl"CS2810-Assembler-Template.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /Ta"CS2810-Assembler-Template.asm"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tyler\Documents\College\Weber State\CS 2810\CS2810-A4\CS2810-Assembler-Template\Debug\CS2810-Assembler-Template.exe" /INCREMENTAL /NOLOGO /LIBPATH:c:\Irvine kernel32.lib user32.lib irvine32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Tyler\Documents\College\Weber State\CS 2810\CS2810-A4\CS2810-Assembler-Template\Debug\CS2810-Assembler-Template.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tyler\Documents\College\Weber State\CS 2810\CS2810-A4\CS2810-Assembler-Template\Debug\CS2810-Assembler-Template.lib" /MACHINE:X86 /SAFESEH:NO "Debug\CS2810-Assembler-Template.obj"
+         CS2810-Assembler-Template.vcxproj -> C:\Users\Tyler\Documents\College\Weber State\CS 2810\CS2810-A4\CS2810-Assembler-Template\Debug\CS2810-Assembler-Template.exe
+     1>Done Building Project "C:\Users\Tyler\Documents\College\Weber State\CS 2810\CS2810-A4\CS2810-Assembler-Template\CS2810-Assembler-Template\CS2810-Assembler-Template.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.30
